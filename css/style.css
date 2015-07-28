@@ -1,8 +1,7 @@
-body {
-   border: 1px solid black;
-   margin: auto;
-   width: 960px;
+* {
+   border: 1px solid blue;
 }
-p {
-   font-size: 2em;
+
+body {
+   margin: auto;
 }
